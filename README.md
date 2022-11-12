@@ -1,5 +1,6 @@
 # data_ocean
-<h2 align="center" color= "3A8891"> Frontend </h2>
+ <h1 align="center"> Data Ocean Website Project </h1>
+<h2 align="center" > Frontend </h2>
 <p align="center"> Ökkeşcan KÜÇÜKÖNDER </p>
 
 <h2 align="center" color="#3A8891"> Backend </h2>
