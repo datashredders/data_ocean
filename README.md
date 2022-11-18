@@ -4,7 +4,7 @@
 <p align="center"> Ökkeşcan KÜÇÜKÖNDER </p>
 
 <h2 align="center" color="#3A8891"> Backend </h2>
-<p align="center"> Furkan MÜLAYİM </p>
+<p align="center"> Ökkeşcan KÜÇÜKÖNDER  &  Yusuf BASATOĞRUL</p>
 
 <h2 align="center" color="#3A8891"> Database </h2>
 <p align="center"> Salih TÜRKOĞLU & Yusuf BASATOĞRUL </p>
